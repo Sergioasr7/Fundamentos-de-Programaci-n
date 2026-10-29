@@ -1,5 +1,5 @@
 
-
+//Convertir de Libras a Kilogramos. ( 1 libra = 0.453592 Kilogramos)
 
 export let pounds = 150;
 
