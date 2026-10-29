@@ -4,26 +4,26 @@ export interface Person {
    isActive: boolean;
 }
 
-let fernando: Person = {
+let sergio: Person = {
     age: 27,
     isActive: true,
     name: 'Sergio',
 };
 
-let Valetine: Person = {
+let valetine: Person = {
     age: 20,
     isActive: false,
     name: 'Valentine',
 };
 
-let Hiro: Person = {
+let hiro: Person = {
     age: 12,
     isActive: true,
     name: 'Hiro',
 };
 
 
-let people: Person[] = [ Sergio, Valentina, Hiro ];
+let people: Person[] = [ Sergio, Valentine, Hiro ];
 
 for( let i = 0; i < people.length; i++ ) {
     let person = people[i];
