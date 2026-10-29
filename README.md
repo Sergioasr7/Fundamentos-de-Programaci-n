@@ -20,7 +20,7 @@ También repasé y apliqué conceptos del libro: Trejos Buriticá, O. I. (2023).
 - Fundamentos de Programación Orientada a Objetos (POO).
 - Aplicación de principios de diseño: YAGNI, KISS, DRY.
 
-- 
+
 ## 📂 Ejercicios Realizados
 1. **Conversión de unidades:** Función para convertir Libras a Kilogramos.
 2. **Conversión de unidades:** Función para convertir Kilómetros a Millas.
