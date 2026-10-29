@@ -1,5 +1,5 @@
 
-
+// 6- Realice un algoritmo, que permita la impresión en consola de la siguiente tabla: 
 
 
 for (let fila = 1; fila <= 5; fila++) {
