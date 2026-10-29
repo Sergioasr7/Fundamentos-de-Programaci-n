@@ -1,4 +1,6 @@
 
+//3- Calcule el área de un triangulo rectángulo que:
+//Base 10 y altura 5
 
 export let base = 10;
 
