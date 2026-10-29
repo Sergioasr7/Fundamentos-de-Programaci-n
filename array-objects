@@ -1,0 +1,31 @@
+export interface Person {
+   name: string;
+   age: number;
+   isActive: boolean;
+}
+
+let fernando: Person = {
+    age: 27,
+    isActive: true,
+    name: 'Sergio',
+};
+
+let Valetine: Person = {
+    age: 20,
+    isActive: false,
+    name: 'Valentine',
+};
+
+let Hiro: Person = {
+    age: 12,
+    isActive: true,
+    name: 'Hiro',
+};
+
+
+let people: Person[] = [ Sergio, Valentina, Hiro ];
+
+for( let i = 0; i < people.length; i++ ) {
+    let person = people[i];
+    console.log(person.name + ' ' + person.age);
+}
