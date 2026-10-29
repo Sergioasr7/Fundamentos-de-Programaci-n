@@ -26,3 +26,5 @@ También repasé y apliqué conceptos del libro: Trejos Buriticá, O. I. (2023).
 
 ## 🛠️ Tecnologías
 - TypeScript (Node.js)
+
+<img width="1600" height="1190" alt="image" src="https://github.com/user-attachments/assets/91343a9c-0280-431e-81c8-31b1754bdd3a" />
