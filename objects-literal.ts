@@ -1,14 +1,4 @@
 
-// let person = {
-//     name: 'Melissa',
-//     age: 30,
-//     isActive: true,
-//     hobbies: ['football','Painting']
-// }
-
-// console.log (person.name);
-
-
 
 export let car = {
     brand: 'Toyota',
