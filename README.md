@@ -14,7 +14,7 @@ También repasé y apliqué conceptos del libro: Trejos Buriticá, O. I. (2023).
 - Manejo de arreglos (arrays) y la propiedad `.length`.
 - Operadores matemáticos (incluyendo el módulo `%` para pares/impares).
 - Creación de funciones, parámetros y el uso de `return`.
-- Pilares de POO 
+- Fundamentos de Programación Orientada a Objetos (POO).
 
 ## 📂 Ejercicios Realizados
 1. **Conversión de unidades:** Libras a Kilogramos y Kilómetros a Millas.
