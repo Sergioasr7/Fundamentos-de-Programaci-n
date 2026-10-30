@@ -18,5 +18,5 @@ export function heroesThatStartsWith(nameList: string[], letter: string ) {
 let heroes = ['Doom', 'Dr. Strange', 'Hulk', 'She Hulk', 'Spiderman', 'Captain Marvel', 'Blade'];
 
 
-let heroesStartWithS = heroesThatStartsWith(heroes, 'b');
+let heroesStartWithS = heroesThatStartsWith(heroes, 'S');
 console.log(heroesStartWithS);
