@@ -5,17 +5,17 @@ let heroes = ['Naruto', 'Wolverine', 'Goku', 'Profesor Charles Xavier'];
 let villains = ['Joker', 'Thanos','Frieza','Orochimaru','Black goku ssj rosé'];
 
 
-function largestNameOfArray( nombres:string[]) {
- let heroMasLargo = nombres[0]
+function largestNameOfArray( names:string[]) {
+ let longestName = names[0]
  
-    for (let i= 0; i < nombres.length; i++){
+    for (let i= 0; i < names.length; i++){
 
-        if (nombres[i].length > heroMasLargo.length){
-            heroMasLargo = nombres[i]
+        if (names[i].length > longestName.length){
+            longestName = names[i]
         }
       
     }
-     return heroMasLargo
+     return longestName
         
     }
 
