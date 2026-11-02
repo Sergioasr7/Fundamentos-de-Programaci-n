@@ -55,8 +55,8 @@ Como cierre del curso, construí una versión web interactiva del clásico juego
 *   **Manejo de Estado (`useState`):** Se manejan 5 estados principales (`word`, `hiddenWord`, `attempts`, `lose`, `won`). La palabra oculta se inicializa con guiones bajos según la longitud de la palabra elegida.
 *   **Validación de letras (`checkLetter`):** Al presionar una letra, se valida si existe en la palabra original. Si no existe, se suma un intento (máximo 9). Si existe, se convierte la palabra oculta en un arreglo, se reemplaza el guion por la letra y se vuelve a unir.
 *   **Condiciones de fin de juego (`useEffect`):**
-    *   *Derrota:* Un efecto escucha los intentos; al llegar a 9, activa el estado `lose`.
-    *   *Victoria:* Otro efecto compara la palabra oculta (sin espacios) con la palabra original. Si son iguales, activa `won`.
+    *   Derrota: Un efecto escucha los intentos; al llegar a 9, activa el estado `lose`.
+    *   Victoria: Otro efecto compara la palabra oculta (sin espacios) con la palabra original. Si son iguales, activa `won`.
 
 ### 🚀 Demo en Vivo
 
