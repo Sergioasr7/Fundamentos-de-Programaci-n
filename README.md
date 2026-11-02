@@ -5,6 +5,11 @@ Mi objetivo principal fue mejorar mi lógica, identificar malas prácticas y pre
 
 Además del curso, complementé mi aprendizaje con el libro "Lógica de programación" (2ª ed.) de Trejos Buriticá, O. I. (2023). De allí reforcé la diferencia entre la lógica humana y la computacional, metodologías para transformar un problema real en un programa, el análisis E.P.S (Entrada, Proceso y Salida) y el diseño de algoritmos.
 
+🛠️ Tecnologías Utilizadas
+TypeScript (Node.js)
+
+React (Vite)
+
 🧠 Conceptos Aprendidos
 Variables y tipos de datos (number, string, boolean).
 
@@ -61,24 +66,10 @@ Derrota: Un efecto escucha los intentos; al llegar a 9, activa el estado lose.
 
 Victoria: Otro efecto compara la palabra oculta (sin espacios) con la palabra original. Si son iguales, activa won.
 
-🛠️ Tecnologías del Proyecto
-React + TypeScript: Interfaz interactiva y tipado estricto.
+🚀 Demo en Vivo
+🔗 Haz clic aquí para jugar al Ahorcado desplegado en Netlify
 
-Vite: Empaquetador y servidor de desarrollo.
-
-Netlify: Para el despliegue del proyecto.
-
-🔗 Ver Juego del Ahorcado Desplegado https://project-hanging-game.netlify.app/
-
-<img width="1189" height="736" alt="image" src="https://github.com/user-attachments/assets/0ba8dc04-3e30-470b-bbc1-32cb3d220826" />
-
-
-
+<img width="1189" height="736" alt="Vista previa del Juego del Ahorcado" src="https://github.com/user-attachments/assets/0ba8dc04-3e30-470b-bbc1-32cb3d220826" />
+🎓 Certificado de Finalización
+<img width="1600" height="1190" alt="Certificado del curso" src="https://github.com/user-attachments/assets/91343a9c-0280-431e-81c8-31b1754bdd3a" />
 Repositorio creado como parte de mi preparación autodidacta antes de iniciar mi formación en Java y Spring Boot.
-
-## 🛠️ Tecnologías
-- TypeScript (Node.js)
-
-## 🎓 Certificado
-
-<img width="1600" height="1190" alt="image" src="https://github.com/user-attachments/assets/91343a9c-0280-431e-81c8-31b1754bdd3a" />
