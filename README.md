@@ -71,4 +71,4 @@ Como cierre del curso, construí una versión web interactiva del clásico juego
 <img width="1600" height="1190" alt="Certificado del curso" src="https://github.com/user-attachments/assets/91343a9c-0280-431e-81c8-31b1754bdd3a" />
 
 ---
-*Repositorio creado como parte de mi preparación autodidacta antes de iniciar mi formación en Java y Spring Boot.*
+
